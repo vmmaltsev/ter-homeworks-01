@@ -10,7 +10,7 @@
 
     Скачайте и установите актуальную версию terraform >=1.4.X . Приложите скриншот вывода команды terraform --version.
 
-    ![alt text](https://github.com/vmmaltsev/screenshot3/blob/main/Screenshot_53.png)
+![alt text](https://github.com/vmmaltsev/screenshot3/blob/main/Screenshot_53.png)
 
     Скачайте на свой ПК данный git репозиторий. Исходный код для выполнения задания расположен в директории 01/src.
     Убедитесь, что в вашей ОС установлен docker.
