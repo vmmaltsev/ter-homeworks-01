@@ -66,3 +66,24 @@ variable "metadata" {
     "ssh-keys"           = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKV/BNDloDr/oUm/uvv+9BteRDdp4nVdUNh9yIjrLRVs root@debian-s-2vcpu-2gb-fra1-01"
   }
 }
+
+
+variable "vm_web_name" {
+  type    = string
+  default = "web"
+}
+
+variable "vm_db_name" {
+  type    = string
+  default = "db"
+}
+
+variable "project_name" {
+  type    = string
+  default = "netology"
+}
+
+variable "platform_name" {
+  type    = string
+  default = "develop-platform"
+}
